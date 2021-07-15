@@ -408,7 +408,10 @@ namespace CustomParachuteMessage
 
             #region Close button
             if (GUI.Button(new Rect(windowRect.width - 15, 3, 12, 12), ""))
+            {
                 CloseWindow();
+                return;
+            }        
             #endregion
 
             #region Color Picker
