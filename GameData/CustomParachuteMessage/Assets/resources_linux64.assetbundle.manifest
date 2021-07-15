@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 127226214
+CRC: 4082455186
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ffdbe047f0ae132e29668a827a5968f
+    Hash: 61900df012c8f75a87813cb02cc95079
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+    Hash: 07353491aca6e6a29636b555171f2e48
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,6 +25,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Parachute/AssetBundle/chuteNormal.png
 - Assets/Parachute/AssetBundle/MessageChute.shader

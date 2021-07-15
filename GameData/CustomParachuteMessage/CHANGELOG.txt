@@ -6,6 +6,11 @@ A Kerbals Space Program MOD by Icecovery
 ========================================
 Changelog
 ----------------------------------------
+	v1.0.1 - 2021/07/15
+	* For KSP 1.12.x
+	* Recompile asset bundle for Unity 2019.4.18f1
+	* Fixed a bug where NullReferenceException might be thrown after closing the customize windows 
+----------------------------------------
 	v1.0.0 - 2021/03/03
 	* For KSP 1.11.x
 	* Initial release
