@@ -591,7 +591,7 @@ namespace CustomParachuteMessage
                     c6 = 0;
                     w2 = "E";
                 }
-                if (GUILayout.Button("KSC"))
+                if (GUILayout.Button("KSC 1"))
                 {
                     word_1 = "Kerbal";
                     word_2 = "Space";
@@ -605,6 +605,22 @@ namespace CustomParachuteMessage
                     c4 = 74;
                     c5 = 34;
                     c6 = 31;
+                    w2 = "W";
+                }
+                if (GUILayout.Button("KSC 2"))
+                {
+                    word_1 = "Kennedy";
+                    word_2 = "Space";
+                    word_3 = "Center";
+                    word_4 = "";
+                    ring4IsCoordinate = true;
+                    c1 = 28;
+                    c2 = 34;
+                    c3 = 24;
+                    w1 = "N";
+                    c4 = 80;
+                    c5 = 39;
+                    c6 = 4;
                     w2 = "W";
                 }
                 if (GUILayout.Button("Rocket Science"))
